@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+<TITLE>Welcome Al</TITLE>
+</HEAD>
+<BODY>
+<UL TYPE = "square">
+<LI> List item …</LI>
+<LI> List item …
+<OL TYPE="i" START="3">
+<LI> List item …</LI>
+<LI> List item …</LI>
+<LI> List item …</LI>
+<LI> List item …</LI>
+<LI> List item …</LI>
+</OL>
+</LI>
+<LI> List item …</LI>
+</UL>
+</BODY>
+</HTML>
